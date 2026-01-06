@@ -10,6 +10,7 @@ const Footer = () => {
           <Image src={"/logo.png"} alt="TrendLame" width={36} height={36} />
           <p className="hidden md:block tracking-wide text-white">TRENDLAMA</p>
         </Link>
+
         <p className="text-sm text-gray-400">&copy; 2025 Trendlama</p>
         <p className="text-sm text-gray-400">All rights reserved</p>
       </div>

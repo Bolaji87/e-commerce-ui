@@ -13,7 +13,7 @@ const Navbar = () => {
           alt="TrendLame"
           width={36}
           height={36}
-          className="h-6 w-6 md:w-9 md:h-9"
+          className="w-6 h-6 md:w-9 md:h-9"
         />
         <p className="hidden md:block tracking-wide">TRENDLAMA</p>
       </Link>
